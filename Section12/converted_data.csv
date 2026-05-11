@@ -1,0 +1,4 @@
+id,name,email,location,is_active
+101,Kenma,kozumekenma@mail.com,Tokyo,True
+102,Lyly,Lylyly@mail.com,Indonesia,False
+103,Haru,harururu@mail.com,Osaka,True

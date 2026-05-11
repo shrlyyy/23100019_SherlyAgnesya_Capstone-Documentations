@@ -1,0 +1,23 @@
+[
+  {
+    "id": "201",
+    "name": "Kenma",
+    "email": "kozumekenma@mail.com",
+    "location": "Tokyo",
+    "is_active": "True"
+  },
+  {
+    "id": "202",
+    "name": "Lyly",
+    "email": "Lylyly@mail.com",
+    "location": "Indonesia",
+    "is_active": "False"
+  },
+  {
+    "id": "203",
+    "name": "Haru",
+    "email": "harururu@mail.com",
+    "location": "Osaka",
+    "is_active": "True"
+  }
+]
